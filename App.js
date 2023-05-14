@@ -7,7 +7,6 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Home from './src/components/pages/Home';
 import Detail from './src/components/pages/Detail';
 import API2 from './src/components/pages/API';
-/dddasdasdasd/as/ds
 // function HomeScreen({navigation}) {
 //   return (
 //     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
